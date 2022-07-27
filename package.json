@@ -1,0 +1,16 @@
+{
+  "name": "ptecho_payment_sandbox_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "firebase-admin": "^10.2.0",
+    "nodemon": "^2.0.16"
+  }
+}

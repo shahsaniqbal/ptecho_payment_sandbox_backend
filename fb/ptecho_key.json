@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ptecho-sandbox-payments",
+  "private_key_id": "06a30483aaccd936915fefd6179e02a3aa97a2f5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDNzgzpRzqy69hf\nO5BosxZwRbh2mcaD6Z/lwm6bFdPT+uO+5Dh9qjKuy4RCcZUCbSKjISpGjWCHTkJO\nPWBMXF7+oWsAvVS4sh/RYGAYsulfFrXbt5azrSM2Iu4eTi0y5oOllAOPKNQLtTWn\nYOFZ2Rpu7haIGO1GtQKTAT1oVqkbVWbtX9tj/TBgSid9y7z/Ff8+aXoHrhljglgT\nsoyh/74maQziU2u69bD3cBxjZCT1HFcZs4MkKGI1a2/agIb0lWs6+GfmcczcbYSE\nKe7dlP3AU0RMdUwVT/78NSjTtiqVntdyIMysoHgFl3fGmR/ImC4Bg0q2bT0ARI72\nETsMwJ5lAgMBAAECggEAAexlkX6RbV+n54fyexAFayozpaQdR1lVHbwZ9YgYMTh8\njWmrn30KOTj8tPRDzMCBXN3v+7XRi6IvG3UWY9BPMPkIO3sJgipkArxwWXq+lJ1t\nOK74ERjSpexgplbbtEiUPWVrPRjIFo3sgPJ2WLUfOp8uBbqZ6RnC+uW9ka6RqQg4\ngC/myVwSk8EMCr6SgKDhBmItfVV8oOyseOvPtjWDDDNeJ2HF3SJ+Nw2nDwNPvu5i\nTShQimWwTsd86LKaG/cQBCLtgkOQCwhD2PAghKIX0cti1tNfrNRSSVoQ/gRSfhrK\nSPlzu/bRPjf6ZbTzP1sJo8BHmmkerfAQx/W9merc5wKBgQDzy1H4crf/AoRn34rS\nFme20Qvg5LIpX9g0oce2UTUyVgFJG711OqDNyBBEGMPJnck/rf2o44WIwT6HGVZt\nWjs/y7c/B/2TUoMglESWDlUApCozplcvmudvQAuzfDqudSikcSXD2oDi4SXQ41jQ\nxmUgcx74DibYU0z5OsR9HsgBYwKBgQDYG9NiGhSG6VGkHrpwx+uoqDaSccd/1E8R\nA+AfqK2ZhJTBlOEXxITOegkSUZO1ulOfB/qGJ3Z1yLBHWECKogM981pirRrctkyp\nO8QjM7kB9qrJFuCrwNYEsPBDXF3OSU20CumaGLymDf2eqQJ4QjyrAZLG+rqMW5JY\n6G4nMHEPlwKBgQDU+ml415dgIy3SpNpcoJAoiMWMyZ3PQVja2f5jitwjRjlHSgGg\nOQCj5UQ4iT35k2ttwy1XbrSIfPGICp2TWIFsQSar3Oos2qeNPZoRUSH3NnNbvdRq\n1TOb3+KZAU0ufVFtHx+z0t5H1hM4QnSjpr5Ps+J5J7vNvi//htSCzfJCKwKBgQCQ\nGC2f8efR9Ox81AhYftUBBfgtOTReZX+6xqzAL0ZhYGeXk99qa5xp2DEIR+CHgY+U\nMEu4+8Me0gvH5m5SgahLvGF9/hI1LFB9Xt5u4mPvjTtfDaQMoW2SfzAUmhfqHjJz\nY/tSxj+zMQz0p5h/+xpco5Xsmu2b/MreAUzBUKlyTQKBgQCSnksIjhZqUDp4qmLm\nBHYIUdaiKAaWf5NyUhwKmzK+cDVLCmBmuk2BZuqj5zQCZn3/AyhZ0nZYt4wLdG+1\ndAo3YD4ba/cDPLQZQJCPbYLquGd0BDATzk5E0V74SA2B4Ioa31inUzQtD6Jo/Q7z\n5ox87Dl7q4TuTIhEdQCqDjWGQg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4gbpu@ptecho-sandbox-payments.iam.gserviceaccount.com",
+  "client_id": "113903873833747711301",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4gbpu%40ptecho-sandbox-payments.iam.gserviceaccount.com"
+}

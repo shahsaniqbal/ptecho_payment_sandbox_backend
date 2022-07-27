@@ -1,0 +1,11 @@
+{
+    "merchant_id":"abcd",
+    "card_number":"12344444",
+    "card_cvv":234,
+    "card_expire":"06/22",
+    "cardholder_name":"XYZ ABC",
+    "price": "250.00",
+    "currency": "PKR",
+    "bill_ref":"bill-123",
+    "payment_return_url":"http:localhost:1111"
+}
